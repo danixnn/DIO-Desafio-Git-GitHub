@@ -1,0 +1,8 @@
+git init - iniciar repositorio do git
+git add - add arquivos para gerenciar
+git commit - faz commit
+git status - status
+git remot add - adiciona repositorio remoto
+git push - envia para repositorio "git push origin master"
+git pull - pucha conteudo para a maquina
+git clone "url" - clona diretorio
